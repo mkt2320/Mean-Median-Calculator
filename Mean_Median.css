@@ -1,0 +1,35 @@
+body {
+  		
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: #333;;
+    color: rgb(216, 216, 216);
+    margin: 05%;
+    background-color: rgb(12, 52, 58);
+    
+}
+
+button {
+  padding: 30px; 
+  font-size: 25px;
+  margin-right: 20px; 
+  background-color:rgb(129, 53, 30); 
+  color: white;
+  border-radius: 20px;
+  width: 200px;;
+}
+
+
+.btn:hover {
+    padding: 25px;
+    background-color: green;
+    font-weight: bolder;
+  }
+
+input {
+  font-size: large;
+  font-weight: bold;
+  color: black;
+  height: 35px;
+  background-color:rgba(240, 255, 240, 0.863);
+}
